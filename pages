@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <main style={{padding:40}}>
+      <h1>AITokenizer Marketplace</h1>
+      <p>Buy AI & LLM APIs using AITK token</p>
+    </main>
+  );
+}
